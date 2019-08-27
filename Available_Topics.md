@@ -9,3 +9,6 @@ Do you want to write a blog post for us, but have no ideas? We have ideas for yo
 - How to answer questions without being a jerk
 - Why do I need to learn Git? 
 - Code School vs Computer Science Degree
+- How to use Slack
+- Resume tips
+- What do I need to know to get my first dev job?

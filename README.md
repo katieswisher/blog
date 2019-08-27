@@ -1,5 +1,6 @@
 # Operation Code Blog
 Hello! We are starting to collect blog posts for the Operation Code blog so we can build a backlog of content. We want to welcome all kinds of contributors, so if you have a blog post you would like to see on whatever blogging platform we use, read below. 
+[Need Ideas?](https://github.com/OperationCode/blog/blob/master/Available_Topics.md)
 
 ## How To Contribute
 1. Write your post in a [markdown](https://guides.github.com/features/mastering-markdown/) file.
